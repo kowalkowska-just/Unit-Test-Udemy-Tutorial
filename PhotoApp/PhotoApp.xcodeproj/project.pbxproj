@@ -15,7 +15,7 @@
 		D1BE95C425A5E53800E9C7F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D1BE95C225A5E53800E9C7F9 /* LaunchScreen.storyboard */; };
 		D1BE95F125A5E61000E9C7F9 /* SignupFormModelValidator.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1BE95F025A5E61000E9C7F9 /* SignupFormModelValidator.swift */; };
 		D1BE95FE25A5E75800E9C7F9 /* SignupFormModelValidator.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1BE95FD25A5E75800E9C7F9 /* SignupFormModelValidator.swift */; };
-		D1BE960525A5FBD900E9C7F9 /* SignupConstans.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1BE960425A5FBD900E9C7F9 /* SignupConstans.swift */; };
+		D1BE960525A5FBD900E9C7F9 /* SignupConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1BE960425A5FBD900E9C7F9 /* SignupConstants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,7 +41,7 @@
 		D1BE95D025A5E53900E9C7F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D1BE95F025A5E61000E9C7F9 /* SignupFormModelValidator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignupFormModelValidator.swift; sourceTree = "<group>"; };
 		D1BE95FD25A5E75800E9C7F9 /* SignupFormModelValidator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignupFormModelValidator.swift; sourceTree = "<group>"; };
-		D1BE960425A5FBD900E9C7F9 /* SignupConstans.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignupConstans.swift; sourceTree = "<group>"; };
+		D1BE960425A5FBD900E9C7F9 /* SignupConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignupConstants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,7 +91,7 @@
 				D1BE95C225A5E53800E9C7F9 /* LaunchScreen.storyboard */,
 				D1BE95C525A5E53800E9C7F9 /* Info.plist */,
 				D1BE95FD25A5E75800E9C7F9 /* SignupFormModelValidator.swift */,
-				D1BE960425A5FBD900E9C7F9 /* SignupConstans.swift */,
+				D1BE960425A5FBD900E9C7F9 /* SignupConstants.swift */,
 			);
 			path = PhotoApp;
 			sourceTree = "<group>";
@@ -206,7 +206,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D1BE960525A5FBD900E9C7F9 /* SignupConstans.swift in Sources */,
+				D1BE960525A5FBD900E9C7F9 /* SignupConstants.swift in Sources */,
 				D1BE95BC25A5E53800E9C7F9 /* ViewController.swift in Sources */,
 				D1BE95B825A5E53800E9C7F9 /* AppDelegate.swift in Sources */,
 				D1BE95FE25A5E75800E9C7F9 /* SignupFormModelValidator.swift in Sources */,
